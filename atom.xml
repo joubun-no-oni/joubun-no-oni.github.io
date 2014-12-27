@@ -4,7 +4,7 @@
   <subtitle><![CDATA[条文の鬼]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://yoursite.com/"/>
-  <updated>2014-12-27T09:20:45.331Z</updated>
+  <updated>2014-12-27T09:59:03.145Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -13,6 +13,45 @@
   </author>
   
   <generator uri="http://zespia.tw/hexo/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[特許法第一条]]></title>
+    <link href="http://yoursite.com/2014/12/27/%E7%89%B9%E8%A8%B1%E6%B3%95%E7%AC%AC%E4%B8%80%E6%9D%A1/"/>
+    <id>http://yoursite.com/2014/12/27/特許法第一条/</id>
+    <published>2014-12-27T09:34:26.000Z</published>
+    <updated>2014-12-27T09:58:49.000Z</updated>
+    <content type="html"><![CDATA[<h2 id="条文">条文</h2>
+<p>(目的)<br>この法律は、発明の保護及び利用を図ることにより、発明を奨励し、もつて産業の発達に寄与することを目的とする。</p>
+<h2 id="メモ">メモ</h2>
+<p>From 青本、特許・実用新案 審査基準</p>
+<blockquote>
+
+<p>新しい技術を開発し、それを公開した者に対し、一定期間、一定条件下に特許権という独占権を付与することにより発明の保護を図り、<br>他方、第三者に対しては、この公開により発明の技術内容を知らしめて、その発明を利用する機会を与えるものである。<br>そして、発明のこのような保護及び利用は、発明の技術的内容を公開するための技術文献及び特許発明の技術的範囲を明示する権利書としての使命を持つ明細書、特許請求の範囲及び図面(以下「明細書等」という。)を介してなされることになる。</p>
+</blockquote>
+
+
+<h3 id="ポイント">ポイント</h3>
+<p>技術の累積的進歩、産業の発達を図ることを目的<br>そのための発明の公開の代償として特許権の付与</p>
+<h2 id="過去問">過去問</h2>
+<p>なし</p>
+<h2 id="関連リンク">関連リンク</h2>
+<p><a href="http://law.e-gov.go.jp/htmldata/S34/S34HO121.html" target="_blank" rel="external">特許法</a><br><a href="http://www.jpo.go.jp/cgi/link.cgi?url=/shiryou/hourei/kakokai/cikujyoukaisetu.htm" target="_blank" rel="external">青本</a><br><a href="http://www.jpo.go.jp/shiryou/kijun/kijun2/tukujitu_kijun.htm" target="_blank" rel="external">特許・実用新案 審査基準</a></p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<h2 id="条文">条文</h2>
+<p>(目的)<br>この法律は、発明の保護及び利用を図ることにより、発明を奨励し、もつて産業の発達に寄与することを目的とする。</p>
+<h2 id="メモ">メモ</h2>
+<p>From 青本、特許・実用新案 審査基準</p>
+<bl]]>
+    </summary>
+    
+      <category term="特許法" scheme="http://yoursite.com/tags/%E7%89%B9%E8%A8%B1%E6%B3%95/"/>
+    
+      <category term="目的" scheme="http://yoursite.com/tags/%E7%9B%AE%E7%9A%84/"/>
+    
+      <category term="特許法" scheme="http://yoursite.com/categories/%E7%89%B9%E8%A8%B1%E6%B3%95/"/>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[Hello World]]></title>
